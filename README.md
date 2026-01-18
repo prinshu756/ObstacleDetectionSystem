@@ -26,7 +26,7 @@ Components Required
 ---
 
 Circuit Diagram
-![Circuit Diagram](circuit-diagram.png)  
+![Circuit Diagram](CircuitDiagram.png)  
 > The ultrasonic sensor is mounted on a servo motor to rotate and scan obstacles. LEDs and a buzzer indicate the obstacle proximity. The LCD displays real-time distance and servo angle.
 
 
